@@ -1,5 +1,5 @@
-function Home () {
-    return <div>Texto com formatação correta</div>
+function Home() {
+  return <div>Texto com formatação correta</div>;
 }
 
 export default Home;
